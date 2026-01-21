@@ -39,11 +39,12 @@ Juga explore desain, seperti figma dan canva
 
 <p align="center">
   <img 
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmI5Z3Z1ZDhmMjd4cmpuZjltdTQ2b2ppcDBqYXlyZXU5aXRoMzg0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztpMY1t5VYWlO/giphy.gif"
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVuamdyaGhiM2k1MmViNDU2OXlpbzFyYXFzOTdwb2VvdTd5OXo0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EcnAlQcGnZq9y/giphy.gif"
     alt="berotak"
     width="750"
   />
 </p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MIKAgata/MIKAgata/output/pacman-contribution-graph-dark.svg">
