@@ -25,7 +25,7 @@ Juga explore desain, seperti figma dan canva
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=MIKAgata&show_icons=true&theme=radical"
-    width="650"
+    width="750"
   />
   <br>
   <img
@@ -41,7 +41,7 @@ Juga explore desain, seperti figma dan canva
   <img 
     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmI5Z3Z1ZDhmMjd4cmpuZjltdTQ2b2ppcDBqYXlyZXU5aXRoMzg0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztpMY1t5VYWlO/giphy.gif"
     alt="berotak"
-    width="600"
+    width="750"
   />
 </p>
 
