@@ -20,7 +20,7 @@ Juga explore desain, seperti figma dan canva
 
 <!-- <img src=""/> -->
 
-### My Github stats
+<!-- ### My Github stats
 
 <p align="center">
   <img
@@ -32,18 +32,19 @@ Juga explore desain, seperti figma dan canva
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIKAgata&theme=gotham&layout=compact"
     width="450"
   />
-</p>
+</p> -->
 
 
 
 
 <p align="center">
   <img 
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmI5Z3Z1ZDhmMjd4cmpuZjltdTQ2b2ppcDBqYXlyZXU5aXRoMzg0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztpMY1t5VYWlO/giphy.gif"
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s1MmVhaXc4ZWJ6ZjM5cG4xY2Q3ODNobXpjbXlsdHRsa3doeHpoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qb1eHxhUHLdsc/giphy.gif"
     alt="berotak"
     width="750"
   />
 </p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MIKAgata/MIKAgata/output/pacman-contribution-graph-dark.svg">
