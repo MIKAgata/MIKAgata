@@ -38,7 +38,7 @@ Juga explore desain, seperti figma dan canva
 
 
  <p align="center">
-  <img src="img/The Greatest GIF.gif" width="600"/>
+  <img src="img/zero.gif" width="600"/>
 </p>
 
 
