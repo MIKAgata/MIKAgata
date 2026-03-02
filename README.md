@@ -43,7 +43,7 @@ Juga explore desain, seperti figma dan canva
     alt="berotak"
     width="750"
   />
-</p> -->
+</p>
 
 
 <!-- <picture>
