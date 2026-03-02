@@ -22,7 +22,7 @@ Juga explore desain, seperti figma dan canva
 
 ### My Github stats
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=MIKAgata&show_icons=true&theme=radical"
     width="750"
@@ -32,7 +32,7 @@ Juga explore desain, seperti figma dan canva
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIKAgata&theme=gotham&layout=compact"
     width="450"
   />
-</p>
+</p> -->
 
 
 
@@ -43,7 +43,7 @@ Juga explore desain, seperti figma dan canva
     alt="berotak"
     width="750"
   />
-</p>
+</p> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MIKAgata/MIKAgata/output/pacman-contribution-graph-dark.svg">
@@ -73,7 +73,7 @@ Juga explore desain, seperti figma dan canva
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,linux,kali,stackoverflow,vscode&perline=6"/>
+    <img src="https://skillicons.dev/icons?i=bash,kali,stackoverflow,&perline=6"/>
   </a>
 </p>
 
