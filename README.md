@@ -20,7 +20,7 @@ Juga explore desain, seperti figma dan canva
 
 <!-- <img src=""/> -->
 
-### My Github stats
+<!-- ### My Github stats -->
 
 <!-- <p align="center">
   <img
