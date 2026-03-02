@@ -37,12 +37,8 @@ Juga explore desain, seperti figma dan canva
 
 
 
-<p align="center">
-  <img 
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s1MmVhaXc4ZWJ6ZjM5cG4xY2Q3ODNobXpjbXlsdHRsa3doeHpoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qb1eHxhUHLdsc/giphy.gif"
-    alt="berotak"
-    width="750"
-  />
+ <p align="center">
+  <img src="img/The Greatest GIF.gif" width="600"/>
 </p>
 
 
