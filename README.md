@@ -1,8 +1,8 @@
 ![MIKAgata](img/github-header-banner.png)
 
-Pelajar SMK RPL | yang berkeinginan kuliah di jepang
-Fokus Cybersecurity namun sedikit mengulik mengenai Software  
-Juga explore desain, seperti figma dan canva 
+Pelajar SMK RPL | yang berkeinginan kuliah di jepang.
+Bidang yang saya tekuni adalah Cybersecurity yang lebih berfokus pada Web Security atau Bug Hunting, saya juga sedikit mengulik mengenai Software  
+Juga explore desain, seperti figma dan canva namun tidak didalami
 
 ### Skills
 <p align="center">
