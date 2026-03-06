@@ -18,21 +18,7 @@ Juga explore desain, seperti figma dan canva namun tidak didalami
   <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00"/>
 </p>
 
-<!-- <img src=""/> -->
 
-<!-- ### My Github stats -->
-
-<!-- <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MIKAgata&show_icons=true&theme=radical"
-    width="750"
-  />
-  <br>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIKAgata&theme=gotham&layout=compact"
-    width="450"
-  />
-</p> -->
 
 
 
