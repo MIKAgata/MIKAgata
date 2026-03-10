@@ -1,4 +1,4 @@
-![MIKAgata](img/github-header-banner2.png)
+![MIKAgata](img/github-header-banner.png)
 
 Pelajar SMK RPL | yang berkeinginan kuliah di jepang.
 Bidang yang saya tekuni adalah Cybersecurity yang lebih berfokus pada Web Security atau Bug Hunting, saya juga sedikit mengulik mengenai Software  
