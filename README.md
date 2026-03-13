@@ -2,7 +2,7 @@
 
 Pelajar SMK RPL | yang berkeinginan kuliah di jepang.
 Bidang yang saya tekuni adalah Cybersecurity yang lebih berfokus pada Web Security atau Bug Hunting, saya juga sedikit mengulik mengenai Software  
-Juga explore desain, seperti figma dan canva namun tidak didalami
+Juga explore desain, seperti figma dan canva.
 
 ### Skills
 <p align="center">
