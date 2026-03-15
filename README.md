@@ -36,6 +36,7 @@ Juga explore desain, seperti figma dan canva.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MIKAgata/MIKAgata/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MIKAgata/MIKAgata/output/pacman-contribution-graph.svg">
 </picture> 
+<img src='https://academy.hackthebox.com/achievement/badge/c8572956-1aba-11f1-9254-bea50ffe6cb4'>  <!-- ini baru -->
 
 ### Find me
 
