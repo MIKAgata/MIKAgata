@@ -24,7 +24,7 @@ Juga explore desain, seperti figma dan canva.
 
 
  <p align="center">
-  <img src="img/gif/lp.gif" width="850"/>
+  <img src="img/gif/Jjk Naoya GIF.gif" width="850"/>
 </p>
 
 
