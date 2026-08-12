@@ -23,7 +23,7 @@ Juga explore desain, seperti figma dan canva.
 
 
  <p align="center">
-  <img src="img/gif/1.gif" width="850"/>
+  <img src="img/gif/2.gif" width="850"/>
 </p>
 
 
