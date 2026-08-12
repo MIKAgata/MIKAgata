@@ -23,7 +23,7 @@ I also explore server security, including OS hardening and privilege escalation.
 
 
  <p align="center">
-  <img src="img/gif/2.gif" width="850"/>
+  <img src="img/gif/6.gif" width="850"/>
 </p>
 
 
