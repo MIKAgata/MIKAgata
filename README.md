@@ -1,8 +1,8 @@
 ![MIKAgata](img/github-header-banner.png)
 
-Pelajar SMK RPL | yang berkeinginan kuliah di jepang.
-Bidang yang saya tekuni adalah Cybersecurity yang lebih berfokus pada Web Security atau Bug Hunting, saya juga sedikit mengulik mengenai Software  
-Juga explore desain, seperti figma dan canva.
+I am an RPL (Software Engineering) vocational high school student aspiring to study in Japan.
+My area of ​​focus is cybersecurity—specifically web security and bug hunting—though I also dabble in software development.
+I also explore server security, including OS hardening and privilege escalation.
 
 ### Skills
 <p align="center">
