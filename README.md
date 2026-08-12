@@ -1,7 +1,7 @@
 ![MIKAgata](img/github-header-banner.png)
 
 I am an RPL (Software Engineering) vocational high school student aspiring to study in Japan.
-My area of ​​focus is cybersecurity—specifically web security and bug hunting—though I also dabble in software development.
+My area of ​​focus is cybersecurity specifically web security and bug hunting though I also dabble in software development.
 I also explore server security, including OS hardening and privilege escalation.
 
 ### Skills
